@@ -4,6 +4,10 @@ What is Cartel Wars?
 
 Cartel Wars is a third person stealth based shooter game. The goal is to sneak around the arena and kill all the enemies before they kill the player. If the player kills all the enimies they win the game. If you are ducking the enemies cant damage the player. Good luck!
 
+Play Game -
+
+https://annabellemruckle.github.io/CartelWarsProd/
+
 Game Includes :
 
 Menu Scene
@@ -13,10 +17,6 @@ Main Scene
 Tutorial Scene 
 
 Three Levels Based on Difficulty 
-
-Play Game -
-
-https://annabellemruckle.github.io/CartelWarsProd/
 
 Resources : 
 
